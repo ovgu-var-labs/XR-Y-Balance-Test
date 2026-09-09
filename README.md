@@ -1,4 +1,4 @@
-# Y-Balance VR
+# Y-Balance XR
 
 
 
